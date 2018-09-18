@@ -1,5 +1,5 @@
 {
-  "name": "angular-todo",
+  "name": "angular-app2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tramoreman/angular-todo.git"
+    "url": "git+https://github.com/tramoreman/angular-app2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tramoreman/angular-todo/issues"
+    "url": "https://github.com/tramoreman/angular-app2/issues"
   },
-  "homepage": "https://github.com/tramoreman/angular-todo#readme"
+  "homepage": "https://github.com/tramoreman/angular-app2#readme"
 }
